@@ -1,6 +1,7 @@
 ## Acerca de mí
 ### Presentacion
-![Foto Random](/20170505_194341.jpg)
+<img src="https://github.com/pdepmartestm/me-presento-loki2236/blob/main/20170505_194341.jpg" width="200px">
+
 Buenas, soy Nicolás García (Leg: 168288-0) estudiante de UTN-FRBA actualmente cursando PdeP
 
 ### Notas Extra
