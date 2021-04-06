@@ -8,7 +8,10 @@ Buenas, soy Nicolás García (Leg: 168288-0) estudiante de UTN-FRBA actualmente 
 Hace ya varios años, varios alumnos, ayudantes de catedra y algunos profesores, mantenemos activos varios grupos de consulta en la plataforma Telegram.
 Aprovecho el espacio para dejarles los links acá abajo.
 
-#### Links de grupos de Telegram
+
+
+
+### Links de grupos de Telegram
 [Consultas Generales](https://t.me/joinchat/I56NlkYz5zSQlGK5pY2z2Q)
 
 ##### 1er Año
